@@ -21,3 +21,4 @@ Em Allowed Origins, digite a url que está no API Management.
 
 Selecione o botão de Salvar.
 
+![2025-06-23](https://github.com/user-attachments/assets/609a2efa-020d-47ab-b1ec-dbfbc797d955)
