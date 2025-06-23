@@ -58,4 +58,6 @@ Copie também o do OpenID Connect metadata document e salve para uso futuro.
 Vá para Certificates & secrets e adicione um client secret. depois copie o value para uso futuro.
 ![2025-06-23 (15)](https://github.com/user-attachments/assets/3dfc32d9-64e9-43f4-bd7f-8b4f3317d13d)
 
+Depois crie App roles.
+![2025-06-23 (16)](https://github.com/user-attachments/assets/5f03761a-a87b-4426-9144-cf6ffb27d6b6)
 
