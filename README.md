@@ -40,7 +40,7 @@ Depois vá em Rewrite URL
 ![2025-06-23 (8)](https://github.com/user-attachments/assets/bf927afe-ec99-4b97-8476-84df6e2bc57c)
 Em backend digite weatherforecast e aperte em salvar
 ![2025-06-23 (9)](https://github.com/user-attachments/assets/238b3380-36e8-4263-af74-98aa74f26067)
-Procure por subscr![2025-06-23 (10)](https://github.com/user-attachments/assets/69a5d690-0529-4777-b06e-3b3503dfb13c)
-iption e onde tiver Header name e Query parameter name, digite x-api-key
-
+Procure por subscription e onde tiver Header name e Query parameter name, digite x-api-key
+![2025-06-23 (10)](https://github.com/user-attachments/assets/69a5d690-0529-4777-b06e-3b3503dfb13c)
+Agora crie uma nova subscription.
 
