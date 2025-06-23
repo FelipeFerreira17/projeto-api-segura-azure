@@ -48,4 +48,5 @@ Agora crie uma nova subscription. Depois de criada, copie a Primary key e guarde
 ## Parte 6
 Na pagina inicial do Azure, selecione Entra ID
 ![2025-06-23 (12)](https://github.com/user-attachments/assets/5ab6aa2b-98a4-4259-be88-aa99ace658cc)
+![2025-06-23 (13)](https://github.com/user-attachments/assets/bd63d814-b04a-47ad-88bc-7f95430e71d8)
 
