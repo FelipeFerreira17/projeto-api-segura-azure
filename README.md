@@ -12,3 +12,6 @@ No marketplace do Azure, procure por
 ![2025-06-22 (4)](https://github.com/user-attachments/assets/7eaad13a-42e0-4e49-8749-2750c33e53f6)
 ![2025-06-22 (5)](https://github.com/user-attachments/assets/14fd53f4-5773-4a5f-b0a3-a2c6170762ec)
 Digite o que está sendo pedido.
+
+## Parte 3
+Vá no Web APP criado e na barra de pesquisa digite CORS.
