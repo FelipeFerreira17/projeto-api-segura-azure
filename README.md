@@ -53,4 +53,5 @@ Digite da maneira que quiser. depois de criado, copie o Application (client) ID 
 
 Em endpoints, procure por token endpoint e copie para uso futuro
 ![2025-06-23 (14)](https://github.com/user-attachments/assets/f0313d13-c45b-468b-acdc-ec58e1392925)
+Copie também o do OpenID Connect metadata document e salve para uso futuro.
 
