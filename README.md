@@ -29,5 +29,5 @@ No API Management, vá para APIs e selecione APIs.
 ![2025-06-23 (2)](https://github.com/user-attachments/assets/54b00390-20d2-4a18-9f6b-e629bd1e2778)
 Vá para add ap e selecione APP Service
 ![2025-06-23 (3)](https://github.com/user-attachments/assets/6eedb0c1-cfc7-469e-9eda-0d8116b9c52f)
-
+![2025-06-23 (4)](https://github.com/user-attachments/assets/76799abb-60db-4978-b10a-32311ad5adfb)
 
