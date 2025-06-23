@@ -17,3 +17,7 @@ Digite o que está sendo pedido.
 Vá no Web APP criado e na barra de pesquisa digite CORS.
 Em Enable Access-Control-Allow-Credentials, habilite essa opção.
 
+Em Allowed Origins, digite a url que está no API Management.
+
+Selecione o botão de Salvar.
+
