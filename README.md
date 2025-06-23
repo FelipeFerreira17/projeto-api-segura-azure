@@ -50,3 +50,7 @@ Na pagina inicial do Azure, selecione Entra ID
 ![2025-06-23 (12)](https://github.com/user-attachments/assets/5ab6aa2b-98a4-4259-be88-aa99ace658cc)
 ![2025-06-23 (13)](https://github.com/user-attachments/assets/bd63d814-b04a-47ad-88bc-7f95430e71d8)
 Digite da maneira que quiser. depois de criado, copie o Application (client) ID para uso futuro.
+
+Em endpoints, procure por token endpoint e copie para uso futuro
+![2025-06-23 (14)](https://github.com/user-attachments/assets/f0313d13-c45b-468b-acdc-ec58e1392925)
+
