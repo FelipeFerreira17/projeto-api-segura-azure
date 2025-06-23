@@ -39,6 +39,7 @@ Preencha o que está sendo pedido.
 Depois vá em Rewrite URL
 ![2025-06-23 (8)](https://github.com/user-attachments/assets/bf927afe-ec99-4b97-8476-84df6e2bc57c)
 Em backend digite weatherforecast e aperte em salvar
+![2025-06-23 (9)](https://github.com/user-attachments/assets/238b3380-36e8-4263-af74-98aa74f26067)
 
 
 
