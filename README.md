@@ -61,3 +61,9 @@ Vá para Certificates & secrets e adicione um client secret. depois copie o valu
 Depois crie App roles.
 ![2025-06-23 (16)](https://github.com/user-attachments/assets/5f03761a-a87b-4426-9144-cf6ffb27d6b6)
 
+## Parte 7
+No postman, digite as informações guardadas nos passos anteriores.
+![2025-06-23 (17)](https://github.com/user-attachments/assets/8d7ef563-cff3-4bcd-9f41-0b4582aafade)
+
+
+
