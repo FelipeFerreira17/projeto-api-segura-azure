@@ -36,4 +36,9 @@ Preencha o que está sendo pedido.
 
 ## Parte 5
 ![2025-06-23 (7)](https://github.com/user-attachments/assets/911d8159-f6ab-4518-898b-e93d355ec987)
+Depois vá em Rewrite URL
+![2025-06-23 (8)](https://github.com/user-attachments/assets/bf927afe-ec99-4b97-8476-84df6e2bc57c)
+
+
+
 
