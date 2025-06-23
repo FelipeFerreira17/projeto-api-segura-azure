@@ -34,3 +34,6 @@ Preencha o que está sendo pedido.
 ![2025-06-23 (5)](https://github.com/user-attachments/assets/733cbe4b-8995-44ca-90d2-457ea062c373)
 ![2025-06-23 (6)](https://github.com/user-attachments/assets/e7b2eb6c-42d3-4911-a7f5-72b0912d5ba0)
 
+## Parte 5
+![2025-06-23 (7)](https://github.com/user-attachments/assets/911d8159-f6ab-4518-898b-e93d355ec987)
+
