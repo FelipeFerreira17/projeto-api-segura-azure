@@ -45,3 +45,7 @@ Procure por subscription e onde tiver Header name e Query parameter name, digite
 Agora crie uma nova subscription. Depois de criada, copie a Primary key e guarde ela para uso futuro.
 ![2025-06-23 (11)](https://github.com/user-attachments/assets/0ba4e18d-a41b-45a2-8dcf-fc76f38d229e)
 
+## Parte 6
+Na pagina inicial do Azure, selecione Entra ID
+![2025-06-23 (12)](https://github.com/user-attachments/assets/5ab6aa2b-98a4-4259-be88-aa99ace658cc)
+
