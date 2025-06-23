@@ -32,4 +32,5 @@ Vá para add ap e selecione APP Service
 ![2025-06-23 (4)](https://github.com/user-attachments/assets/76799abb-60db-4978-b10a-32311ad5adfb)
 Preencha o que está sendo pedido.
 ![2025-06-23 (5)](https://github.com/user-attachments/assets/733cbe4b-8995-44ca-90d2-457ea062c373)
+![2025-06-23 (6)](https://github.com/user-attachments/assets/e7b2eb6c-42d3-4911-a7f5-72b0912d5ba0)
 
