@@ -15,3 +15,5 @@ Digite o que está sendo pedido.
 
 ## Parte 3
 Vá no Web APP criado e na barra de pesquisa digite CORS.
+Em Enable Access-Control-Allow-Credentials, habilite essa opção.
+
