@@ -55,3 +55,7 @@ Em endpoints, procure por token endpoint e copie para uso futuro
 ![2025-06-23 (14)](https://github.com/user-attachments/assets/f0313d13-c45b-468b-acdc-ec58e1392925)
 Copie também o do OpenID Connect metadata document e salve para uso futuro.
 
+Vá para Certificates & secrets e adicione um client secret
+![2025-06-23 (15)](https://github.com/user-attachments/assets/3dfc32d9-64e9-43f4-bd7f-8b4f3317d13d)
+
+
