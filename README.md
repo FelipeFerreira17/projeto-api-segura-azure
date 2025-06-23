@@ -1,2 +1,3 @@
-# projeto-api-segura-azure
-Projeto da DIO da criação de uma API segura com o Azure API.
+# Projeto da criação de uma API com Azure API.
+## Parte1
+No marketplace do Azure, digite na busca por APIM e procure por API Management.
