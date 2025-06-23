@@ -43,4 +43,5 @@ Em backend digite weatherforecast e aperte em salvar
 Procure por subscription e onde tiver Header name e Query parameter name, digite x-api-key
 ![2025-06-23 (10)](https://github.com/user-attachments/assets/69a5d690-0529-4777-b06e-3b3503dfb13c)
 Agora crie uma nova subscription.
+![2025-06-23 (11)](https://github.com/user-attachments/assets/0ba4e18d-a41b-45a2-8dcf-fc76f38d229e)
 
